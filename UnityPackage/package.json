@@ -1,0 +1,24 @@
+{
+  "name": "com.gamedevdaniel.game_utils",
+  "version": "1.0.0",
+  "displayName": "Common Game Utils",
+  "description": "This is an a util package involving all the common utility code you'll need to create games",
+  "unity": "2021.3.18",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+ },
+ "keywords": [
+    "GameUtils",
+    "Physics",
+    "Common",
+    "Animation"
+  ],
+  "author": {
+    "name": "Daniel Ogunrinde",
+    "email": "ogunrindeoluwaseun01@gmail.com",
+    "url": "https://www.gamedevdaniel.com"
+  }
+}
