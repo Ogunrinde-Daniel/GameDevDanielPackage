@@ -5,9 +5,9 @@
   "description": "This is an a util package involving all the common utility code you'll need to create games",
   "unity": "2021.3",
   "unityRelease": "0b5",
-  "documentationUrl": "https://example.com/",
-  "changelogUrl": "https://example.com/changelog.html",
-  "licensesUrl": "https://example.com/licensing.html",
+  "documentationUrl": "https://sites.google.com/view/gamedevdaniel",
+  "changelogUrl": "https://sites.google.com/view/gamedevdaniel",
+  "licensesUrl": "https://sites.google.com/view/gamedevdaniel/lincense",
   "dependencies": {
  },
  "keywords": [
